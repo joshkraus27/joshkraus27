@@ -2,7 +2,8 @@
 
 Mechanical Engineering student at Penn State who ships production software.
 
-I'm the co-founder of **[FitLifeAI](https://apps.apple.com/us/app/fitlifeai)** — an AI-powered iOS fitness app live on the App Store (600+ downloads, 150 MAU, 40 paying subscribers, 4.9-star App Store rating) — and a contract iOS developer for **Connect Happy Valley**, a native visitor-guide app built for a paying client.
+I'm the co-founder of **[FitLifeAI]([https://apps.apple.com/us/app/fitlifeai](https://apps.apple.com/us/app/fitlifeai-ai-coach-macros/id6751930554
+FitLifeAI: AI Coach & Macros))** — an AI-powered iOS fitness app live on the App Store (600+ downloads, 150 MAU, 40 paying subscribers, 4.9-star App Store rating) — and a contract iOS developer for **Connect Happy Valley**, a native visitor-guide app built for a paying client.
 
 ## What I work on
 
